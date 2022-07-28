@@ -13,3 +13,10 @@ body {
 .course-learning-background {
   background-color: #f4fafd;
 }
+.another-color {
+  color: rgb(24, 23, 23);
+}
+
+footer {
+  background-color: #161616;
+}
